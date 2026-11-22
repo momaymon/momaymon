@@ -19,8 +19,7 @@
 ### 🧰 Tech stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=arduino,cpp,c,python,raspberrypi,linux,js,html" alt="Tech stack" /><br/>
-  <img src="https://skillicons.dev/icons?i=css,flask,fastapi,docker,git,github,vscode" alt="Tech stack" /><img src="icons/microbit.svg" width="56.25" height="48" alt="micro:bit" title="micro:bit" />
+  <img src="icons/tech-stack.svg" alt="Arduino, C++, C, Python, Raspberry Pi, Linux, JavaScript, HTML, CSS, Flask, FastAPI, Docker, Git, GitHub, VS Code, micro:bit" />
 </p>
 
 ### 🚀 Featured project · โปรเจกต์เด่น
