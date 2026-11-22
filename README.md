@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Guy 👋 สวัสดีครับ ผมกาย</h1>
 
 <p align="center">
-  <b>IoT & Embedded Developer</b> · ESP32 · Raspberry Pi · Sensors · Dashboards<br/>
+  <b>IoT & Embedded Developer</b> · ESP32 · micro:bit · Raspberry Pi · Smart Farm · Dashboards<br/>
   นักพัฒนา IoT และ Embedded ชอบทำของที่จับต้องได้ ต่อเซนเซอร์ ทำจอ และส่งข้อมูลขึ้นแดชบอร์ด
 </p>
 
@@ -10,6 +10,8 @@
 ### 🛠️ What I do · สิ่งที่ผมทำ
 
 - 🔌 **Embedded firmware** — ESP32, Arduino, RS485 / Modbus sensors · เขียนเฟิร์มแวร์และต่อเซนเซอร์อุตสาหกรรม
+- 🌾 **Smart Farm** — temperature & humidity sensors, automation and cloud dashboards for farms · ระบบฟาร์มอัจฉริยะ วัดอุณหภูมิ ความชื้น และควบคุมอัตโนมัติ
+- 🎓 **micro:bit** — hands-on projects for learning coding & electronics · โปรเจกต์ micro:bit สำหรับเรียนโค้ดและอิเล็กทรอนิกส์
 - 🍓 **Edge devices** — Raspberry Pi kiosks, cameras, systemd services · ระบบหน้างานที่เปิดเครื่องแล้วพร้อมใช้
 - 📊 **Monitoring dashboards** — real-time data for solar & factory systems · แดชบอร์ดติดตามระบบแบบ real-time
 - 🌱 **Always learning** — trying new boards and displays for fun · ชอบลองบอร์ดและจอใหม่ๆ เป็นงานอดิเรก
@@ -17,7 +19,8 @@
 ### 🧰 Tech stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=arduino,cpp,c,python,raspberrypi,linux,js,html,css,flask,fastapi,docker,git,github,vscode&perline=8" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=arduino,cpp,c,python,raspberrypi,linux,js,html,css,flask,fastapi,docker,git,github,vscode&perline=8" alt="Tech stack" /><br/>
+  <img src="icons/microbit.svg" width="48" height="48" alt="micro:bit" title="micro:bit" />
 </p>
 
 ### 🚀 Featured project · โปรเจกต์เด่น
