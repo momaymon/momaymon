@@ -22,11 +22,12 @@
   <img src="icons/tech-stack.svg" alt="Arduino, C++, C, Python, Raspberry Pi, Linux, JavaScript, HTML, CSS, Flask, FastAPI, Docker, Git, GitHub, VS Code, micro:bit" />
 </p>
 
-### 🚀 Featured project · โปรเจกต์เด่น
+### 🚀 Featured projects · โปรเจกต์เด่น
 
 | Project | Description |
 | --- | --- |
 | [**ESP32-2432S028R_Station**](https://github.com/momaymon/ESP32-2432S028R_Station) | 🌦️ Touchscreen weather station on the ESP32 "Cheap Yellow Display" using Open-Meteo · สถานีพยากรณ์อากาศบนจอสัมผัส ESP32 |
+| [**ESP32-DHT11**](https://github.com/momaymon/ESP32-DHT11) | 🌡️ Temperature & humidity monitor with a live web page and JSON API · วัดอุณหภูมิและความชื้น ดูผ่านหน้าเว็บได้ |
 
 ### 📈 GitHub stats
 
