@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0ea5e9,100:22c55e&height=200&section=header&text=Hi,%20I'm%20Guy&fontSize=56&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=IoT%20%26%20Embedded%20Developer&descSize=20&descAlignY=58" alt="Hi, I'm Guy" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0ea5e9,100:22c55e&height=200&section=header&text=Hi,%20I'm%20Guy&fontSize=56&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=IoT%20and%20Embedded%20Developer&descSize=20&descAlignY=58" alt="Hi, I'm Guy" />
 
 <p align="center">
   <a href="https://github.com/momaymon">
