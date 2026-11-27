@@ -1,4 +1,10 @@
-<h1 align="center">Hi, I'm Guy 👋 สวัสดีครับ ผมกาย</h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0ea5e9,100:22c55e&height=200&section=header&text=Hi,%20I'm%20Guy&fontSize=56&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=IoT%20%26%20Embedded%20Developer&descSize=20&descAlignY=58" alt="Hi, I'm Guy" />
+
+<p align="center">
+  <a href="https://github.com/momaymon">
+    <img src="https://readme-typing-svg.demolab.com?font=Kanit&weight=500&size=24&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=600&lines=%E0%B8%AA%E0%B8%A7%E0%B8%B1%E0%B8%AA%E0%B8%94%E0%B8%B5%E0%B8%84%E0%B8%A3%E0%B8%B1%E0%B8%9A+%E0%B8%9C%E0%B8%A1%E0%B8%81%E0%B8%B2%E0%B8%A2+%F0%9F%91%8B;ESP32+%C2%B7+micro%3Abit+%C2%B7+Raspberry+Pi;Smart+Farm+%26+IoT+Sensors+%F0%9F%8C%BE;Building+things+that+sense+and+show+%F0%9F%94%A7" alt="Typing intro" />
+  </a>
+</p>
 
 <p align="center">
   <b>IoT & Embedded Developer</b> · ESP32 · micro:bit · Raspberry Pi · Smart Farm · Dashboards<br/>
@@ -43,6 +49,14 @@
   <img src="https://streak-stats.demolab.com?user=momaymon&hide_border=true&theme=tokyonight" alt="GitHub streak" />
 </p>
 
----
+### 🐍 Contribution snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/momaymon/momaymon/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/momaymon/momaymon/output/github-snake.svg" />
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/momaymon/momaymon/output/github-snake-dark.svg" />
+</picture>
 
 <p align="center"><i>Building things that sense, measure and show · สร้างของที่วัดค่าได้และแสดงผลได้ 🔧</i></p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:22c55e,50:0ea5e9,100:0f172a&height=120&section=footer" alt="" />
